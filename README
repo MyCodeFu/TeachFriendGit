@@ -1,0 +1,63 @@
+So let's teach John how to use git/github. Type everything I say, John.
+Including this. Remember, it's important to type everything. Press return. No, John, press the enter key, twice.
+
+
+I'll be taking this Step-by-step. What better way to learn than by doing while someone barks orders at you, and demands you type everything he says verbatim, haha. No, don't type haha. Forget it.
+
+First, John, tell me what I've had you do so far. Don't leave out any step please. Including terminal commands. This is for your reference, these are your notes. 
+
+	Thanks, Joe. Asshole.
+
+    I created a local git folder with terminal by running
+     $ git init FolderName
+
+    I moved to the new foler
+     $ cd FolderName
+
+    Then I created a readme file in the folder, from terminal
+     $ gedit README
+
+    And now I'm typing dumb stuff
+
+Thanks John. You're swell. We really should have started with installing and setting up git, but it's easy enough... Press Ctrl+S
+to save and go back the the terminal.
+
+And we're back! You're up John.
+
+	Joe really is having me type everything he says. Damn it!
+	I asked him to show me, not make me into a project!
+	Anyway, first I created another file with Sublime Text 
+	called HelloWorld.c
+	 $ st HelloWorld.c
+
+	Joe told me to mention st is an alias, and won't open Sublime
+	unless you create it. So I typed out the program and saved.
+
+
+		#include<stdio.h>
+		int main()
+		{
+		printf("hello world");
+		return 0;
+		}
+
+	Sublime Text is soooooo much nicer than gedit, I might add.
+	Then I added both files to what he calls the "get queue, 
+	which Joe says is important. We'll see.
+
+Don't get mouthy. I have write access to this little project, and I can
+make you look like a... something bad!
+
+	ANYWAY, I used git add to make the queue.
+	 $ git add README
+	 $ git add HelloWorld.c
+
+	 I was instructed to mention that this tells get what all
+	 is in the project, and what to upload.
+
+Alright John, so far, so good. Now to commit changes... just type git commit, 
+you can add -m "note" to add a note, which should describe the note. Save, then go to terminal.
+
+
+
+
